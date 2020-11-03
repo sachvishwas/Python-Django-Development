@@ -1,0 +1,14 @@
+.navbar{
+    font-family: Lato;
+    width: 100%;
+    background-color: whitesmoke ;
+    overflow: auto;
+}
+
+.navbar a{
+    font-family: Lato;
+    float: left;
+    padding: 12px;
+}
+
+
